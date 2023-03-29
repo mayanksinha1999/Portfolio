@@ -55,6 +55,7 @@ h1{
 
 section{
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2, section > h5{
@@ -108,10 +109,10 @@ img{
   object-fit: cover;
 }
 
-.me{
+/* .me{
   width: 30%;
   margin: 8px 0px 2px 400px;
-}
+} */
 
 
 /* MEDIA QUERIES ( MEDIUM DEVICES)*/
